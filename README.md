@@ -1,6 +1,6 @@
 # restaurant_clean_architecture
 
-###　概要
+### 概要
 fast apiを用いてclean_architectureを再現
 
 ### 1.dockerを起動
