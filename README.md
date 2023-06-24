@@ -1,7 +1,7 @@
 # restaurant_clean_architecture
 
 ### 1.dockerを起動
-docker desktop 等を起動する
+docker desktop を起動する
 
 ### shellを実行
 restaurant_clean_architectureのディレクトリ内で以下のコマンドを実行
